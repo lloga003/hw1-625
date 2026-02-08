@@ -1,6 +1,6 @@
 # Homework 1: Tool Setup
 
-**Insert Your Name Here**  
+**Lee M Logan*  
 CS 625, Spring 2026  
 Due: Sunday, February 8, 2026
 
@@ -8,15 +8,15 @@ Due: Sunday, February 8, 2026
 
 ### Q1 - URL of GitHub Repo
 
-Insert your answer and explanation here
+https://github.com/lloga003/hw1-625
 
 ### Q2 - Pull Command
 
-Insert your answer and explanation here
+The git pull command sends changes from your remote to your local.
 
 ### Q3 - Local Commits
 
-Insert your answer and explanation here
+If you are sure that you have commited your changes, but you don't see the update on github.com you have likely forgotten to push your changes from your local to github.
 
 ## Markdown
 
